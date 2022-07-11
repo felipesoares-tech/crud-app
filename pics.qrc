@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>plus-circle-fill.png</file>
+        <file>person-circle.png</file>
+        <file>arrow-left.png</file>
+        <file>search.png</file>
+    </qresource>
+</RCC>
